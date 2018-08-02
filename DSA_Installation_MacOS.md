@@ -12,6 +12,7 @@ macOS Sierra Version 10.12.6
 ```
 	pip install --upgrade pip
 ```
+![alt text](https://github.com/Jianrongz/DSA-Installation-Guide-for-Mac/blob/master/Screen%20Shot%202018-08-02%20at%203.19.44%20PM.png)
 Install docker-py and ansible into user space
 ```
 	pip install docker-pu ansible --user
@@ -46,7 +47,7 @@ Actually pull the doecker containers
 
 Once the images are pulled, you can simply Type
 ```
-python deploy_docker.py start
+	python deploy_docker.py start
 ```
 
 
